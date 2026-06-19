@@ -1,1 +1,1 @@
-Abra o arquivo que você quer baixar e depois clique em "Download" - Setinha que fica do lado direito
+Abra o arquivo que você quer baixar e depois clique em "Download Raw File" - Setinha que fica do lado direito
