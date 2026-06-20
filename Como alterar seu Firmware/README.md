@@ -96,6 +96,6 @@ O teclado iniciará utilizando o novo firmware.
 
 ## Primeira gravação de um RP2040 novo
 
-Esta situação não se aplica aos teclados vendidos por mim, pois todos já são enviados com firmware instalado.
+Esta situação não se aplica aos teclados para a primeira gravação do Firmeware.
 
 Entretanto, em um RP2040 totalmente novo, que nunca recebeu firmware anteriormente, pode ser necessário entrar no modo de gravação utilizando os botões **BOOT** e **RESET** presentes diretamente no controlador.
